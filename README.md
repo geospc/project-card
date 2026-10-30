@@ -35,4 +35,8 @@ Non servono dipendenze né build.
 3. Il sito sarà disponibile su `https://<tuo-username>.github.io/<nome-repo>/`.
 
 ## Licenza
-Georgiana Spac & Company
+Georgiana Spac & Company 
+
+## Note 
+Questo repository è stato creato durante un'esercitazione pratica
+su Git e GitHub.
